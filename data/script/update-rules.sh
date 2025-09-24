@@ -35,11 +35,25 @@ rules=(
   "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy隐私保护规则
   "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
   "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
-  "https://small.oisd.nl/" #oisd规则
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风规则
   "https://anti-ad.net/easylist.txt" #Anti-AD规则
   "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt" #adblockfilters规则
-  "https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt" #GOODBYEADS规则
+  "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt"
+  "http://rssv.cn/adguard/api.php?type=black" #晴雅
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt"
+  "https://easylist-downloads.adblockplus.org/easylist.txt"
+  "https://easylist-downloads.adblockplus.org/easylistchina.txt"
+  "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
+  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt"
+  "https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_small.txt"
+  "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
+  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+  "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt" #轻量广告拦截规则
+  "https://filter.futa.gg/hosts_abp.txt"
+  "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt" #去广告规则，酷安反馈反馈_Dns
+  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt" #AdRules DNS List
  )
 
 allow=(
@@ -52,6 +66,18 @@ allow=(
   "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt"
   "https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt"
   "https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt"
+  "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt" #去广告规则，酷安反馈反馈_Allow
+  "https://raw.githubusercontent.com/Lynricsy/HyperADRules/master/allow.txt" #HyperADRules_Allow
+  "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt" #茯苓允许列表
+#  "https://github.com/Potterli20/file/releases/download/github-hosts/allow.txt" #冷莫allow
+#  "https://file-git.trli.club/file-hosts/allow/Domains" #冷莫myallow
+  "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt" #jhsvip_allow
+  "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt" #anti-ad_allow
+  "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt" #BlueSkyXN_Allow 
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
