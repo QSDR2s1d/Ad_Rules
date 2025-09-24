@@ -1,4 +1,5 @@
 !屏蔽B站直播P2P上传
+@@||zj-cn-live-comet.chat.bilibili.com^
 .chat.bilibili.com
 !Amazon ADS
 ||analyticsengine.s3.amazonaws.com^
