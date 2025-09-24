@@ -1,3 +1,5 @@
+!抖音
+@@||verify.snssdk.com^
 !网易验证
 @@||cstaticdun.126.net^
 !QQ音乐PC端登录
@@ -24,6 +26,7 @@
 !腾讯系 头像
 @@qlogo.cn^
 !B站弹幕
+@@||zj-cn-live-comet.chat.bilibili.com^
 @@broadcastlv.chat.bilibili.com^
 !JD试用商品详情
 @@||wl.jd.com^$important
