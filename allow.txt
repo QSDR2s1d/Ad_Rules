@@ -2,7 +2,7 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/QSDR2s1d/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-09-24 18:38:06（北京时间）
+! Version: 2025-09-24 20:16:04（北京时间）
 ! Description: Ad_Rules，一个集合众家之长的、强力去广告的规则
 ! Total count: 18377
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
