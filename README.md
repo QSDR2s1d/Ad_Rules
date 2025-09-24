@@ -53,13 +53,6 @@ DNS拦截规则数量: 298303
 
 [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
 
-<h2 id="d">协助我完善此项目</h2>
-
-希望大家可以提交 Issue 或者 Request 来帮助我完善规则 我审核之后会加入到规则，如果规则有误杀我会尽快处理
-
-**本项目部分源码来自[GOODBYEADS](https://github.com/8680/GOODBYEADS)，在此表示感谢。**
-
-**提交范围**
 
 - 漏拦截的广告
 - 误杀的网站
