@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Title: HyperADRules
+! Title: Ad_Rules
 ! Homepage: https://github.com/QSDR2s1d/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-09-24 18:29:50（北京时间）
+! Version: 2025-09-24 18:35:34（北京时间）
 ! Description: Ad_Rules，一个集合众家之长的、强力去广告的规则
-! Total count: 18376
+! Total count: 18377
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -18347,6 +18347,7 @@
 @@||zive.cz/Client.Scripts/advertisment.js
 @@||zixu.site^$important
 @@||ziyuan.guwendao.net^
+@@||zj-cn-live-comet.chat.bilibili.com^
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zkres.myzaker.com^
 @@||zkres.myzaker.com^$important
