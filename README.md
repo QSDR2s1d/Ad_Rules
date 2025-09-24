@@ -1,24 +1,3 @@
-![HyperADRules](https://raw.githubusercontent.com/Lynricsy/HyperADRules/refs/heads/master/pics/logo.png)
-<div align="center">
-<h1 align="center">HyperADRules<br>一个集合众家之长的、强力去广告的规则</h1>
-<p>
-  <a href="https://github.com/Lynricsy/HyperADRules">
-    <img src="https://img.shields.io/github/last-commit/Lynricsy/HyperADRules?style=flat" alt="last update" />
-  </a>
-  <a href="https://github.com/Lynricsy/HyperADRules">
-    <img src="https://img.shields.io/github/forks/Lynricsy/HyperADRules?style=flat" alt="forks" />
-  </a>
-  <a href="https://github.com/Lynricsy/HyperADRules">
-    <img src="https://img.shields.io/github/stars/Lynricsy/HyperADRules?style=flat" alt="stars" />
-  </a>
-  <a href="https://github.com/Lynricsy/HyperADRules/issues/">
-    <img src="https://img.shields.io/github/issues/Lynricsy/HyperADRules?style=flat" alt="open issues" />
-  </a>
-  <a href="https://github.com/Lynricsy/HyperADRules">
-    <img src="https://img.shields.io/github/license/Lynricsy/HyperADRules?style=flat" alt="license" />
-  </a>
-</p>
-
 <h4>
     <a href="#a">Status</a>
   <span> · </span>
