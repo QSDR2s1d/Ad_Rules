@@ -52,8 +52,3 @@ DNS拦截规则数量: 298303
 <h2 id="c">测试拦截效果</h2>
 
 [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
-
-
-- 漏拦截的广告
-- 误杀的网站
-- 请在测试出具体的域名之后提交issue
