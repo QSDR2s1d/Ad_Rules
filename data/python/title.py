@@ -21,10 +21,10 @@ for file_path in file_list:
     # 在文件顶部插入内容
     new_content = f"[Adblock Plus 2.0]\n" \
                   f"! Title: HyperADRules\n" \
-                  f"! Homepage: https://github.com/Lynricsy/HyperADRules\n" \
+                  f"! Homepage: https://github.com/QSDR2s1d/Ad_Rules\n" \
                   f"! Expires: 12 Hours\n" \
                   f"! Version: {beijing_time}（北京时间）\n" \
-                  f"! Description: HyperADRules，一个集合众家之长的、强力去广告的规则\n" \
+                  f"! Description: Ad_Rules，一个集合众家之长的、强力去广告的规则\n" \
                   f"! Total count: {line_count}\n" \
                   f"{content}"
 
