@@ -2,7 +2,7 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/QSDR2s1d/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-09-24 20:16:04（北京时间）
+! Version: 2025-09-25 08:38:57（北京时间）
 ! Description: Ad_Rules，一个集合众家之长的、强力去广告的规则
 ! Total count: 18377
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
@@ -7378,7 +7378,6 @@
 @@||googletagmanager.com/gtag/destination$script,domain=musinsa.com
 @@||googletagmanager.com/gtag/destination?$domain=sloways.eu
 @@||googletagmanager.com/gtag/js$domain=17track.net|9to5mac.com|academy.com|acornonline.com|aena.es|afisha.timepad.ru|aliexpress.com|app.joinhandshake.com|carhartt-wip.com|cbslocal.com|checkout.ao.com|cmoa.jp|cnet.com|cram.com|devclass.com|dholic.co.jp|docs.wps.com|ecmweb.com|ejgiftcards.com|enmotive.com|espressif.com|euronics.ee|factory.pixiv.net|fanpage.it|game.anymanager.io|globo.com|gmanetwork.com|herculesstands.com|homeinspector.org|honeystinger.com|hostingvergelijker.nl|huion.com|inforesist.org|kawasaki.com|kinepolis.be|kinepolis.ch|kinepolis.es|kinepolis.fr|kinepolis.lu|kinepolis.nl|liene-life.com|livongo.com|m.putlocker.how|malegislature.gov|mall.heiwa.jp|mediaite.com|mirrativ.com|modehasen.de|montcopa.org|nihontsushin.com|o2.co.uk|oko.sh|panflix.com.br|papajohns.com|plex.tv|pptvhd36.com|radiosarajevo.ba|redstoneonline.jp|rhbgroup.com|rintraccialamiaspedizione.it|royalcams.com|schwab.com|seatmaps.com|showroom-live.com|skylar.com|slink.ptit.edu.vn|sloways.eu|square-enix.com|starblast.io|supplementmart.com.au|ticketmaster.com|timparty.tim.it|toptal.com|trespa.info|truckspring.com|virginmedia.com|virginplus.ca|webstatus.dev|winefolly.com|winhappy.com|xl-bygg.no|zf1.tohoku-epco.co.jp|zipair.net
-@@||googletagmanager.com/gtag/js$domain=17track.net|9to5mac.com|academy.com|acornonline.com|aena.es|afisha.timepad.ru|aliexpress.com|app.joinhandshake.com|carhartt-wip.com|cbslocal.com|checkout.ao.com|cmoa.jp|cnet.com|cram.com|devclass.com|dholic.co.jp|docs.wps.com|ecmweb.com|ejgiftcards.com|enmotive.com|euronics.ee|factory.pixiv.net|fanpage.it|game.anymanager.io|globo.com|gmanetwork.com|herculesstands.com|homeinspector.org|honeystinger.com|hostingvergelijker.nl|huion.com|inforesist.org|kawasaki.com|kinepolis.be|kinepolis.ch|kinepolis.es|kinepolis.fr|kinepolis.lu|kinepolis.nl|liene-life.com|livongo.com|m.putlocker.how|malegislature.gov|mall.heiwa.jp|mediaite.com|mirrativ.com|modehasen.de|montcopa.org|nihontsushin.com|o2.co.uk|oko.sh|panflix.com.br|papajohns.com|plex.tv|pptvhd36.com|radiosarajevo.ba|redstoneonline.jp|rhbgroup.com|rintraccialamiaspedizione.it|royalcams.com|schwab.com|seatmaps.com|showroom-live.com|skylar.com|slink.ptit.edu.vn|sloways.eu|square-enix.com|starblast.io|supplementmart.com.au|ticketmaster.com|timparty.tim.it|toptal.com|trespa.info|truckspring.com|virginmedia.com|virginplus.ca|webstatus.dev|winefolly.com|winhappy.com|xl-bygg.no|zf1.tohoku-epco.co.jp|zipair.net
 @@||googletagmanager.com/gtag/js$domain=av01.tv|javhd.com
 @@||googletagmanager.com/gtag/js$domain=battlestick2.net
 @@||googletagmanager.com/gtag/js$domain=bihann.com|nehannn.com
@@ -8714,7 +8713,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=24h.com.vn
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=7plus.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=9am.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=a1.ro
@@ -12736,6 +12734,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=reviewjournal.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=s0ft4pc.com|portable4pc.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=scamwatcher.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=sgxnifty.org|comexlive.org|dowfutures.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=slashview.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=smallseotools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=sms-ol.com
@@ -14821,7 +14820,6 @@
 @@||sgqcvfjvr.onet.pl^
 @@||sgtm.farmasave.it^$script,~third-party
 @@||sgtm.ipekyol.com.tr/gtm.js
-@@||sgxnifty.org/wp-content/themes/default/js/adblocker.js
 @@||sgxnifty.org^$generichide
 @@||sh.st$generichide
 @@||shadowlandschronicles.com/pl/*/master.m3u8$xmlhttprequest,stealth=referrer
@@ -15523,6 +15521,7 @@
 @@||static.doubleclick.net/instream/ad_status.js$domain=youtube.com
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=ignboards.com
 @@||static.doubleclick.net^$app=com.google.android.apps.cultural
+@@||static.doubleclick.net^$xmlhttprequest,domain=sgxnifty.org|comexlive.org|dowfutures.org
 @@||static.e.189.cn^
 @@||static.editor.naver.net/static/$stealth=referrer
 @@||static.ex.co/pb-play/production/*/playbuzz-viewer-play.es5.js
@@ -18030,6 +18029,7 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
 @@||xfreehd.com^$generichide
+@@||xfreehd.com^$generichideparty
 @@||xg4ken.com/trk/*&adgroupid=
 @@||xhaccess.com^$script,~third-party
 @@||xhamster.com/ajax/
