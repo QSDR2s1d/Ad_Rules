@@ -2,9 +2,9 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/QSDR2s1d/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-09-25 08:38:57（北京时间）
+! Version: 2025-09-25 20:16:29（北京时间）
 ! Description: Ad_Rules，一个集合众家之长的、强力去广告的规则
-! Total count: 18377
+! Total count: 18376
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -352,6 +352,7 @@
 @@/scripts/*js|$xmlhttprequest,stealth=referrer,domain=crackstreamer.net|1stream.eu|streameast.app|thecrackstreams.live|buffstreams.app
 @@/scripts/*m3u8$xmlhttprequest,stealth=referrer,domain=1stream.eu|streameast.app|thecrackstreams.live
 @@/scripts/adv.js$domain=securenetsystems.net
+@@/sd0embed/*$subdocument,stealth=referrer
 @@/sd0embed/*$subdocument,stealth=referrer,domain=vipbox.lc|vipleague.*
 @@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|53zaixian.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|guancha.cn|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
@@ -1300,6 +1301,7 @@
 @@||adikpm.github.io/repo/assets/js/prebid_hb_3293_5687.js
 @@||adinvent.engine.adglare.net^$other,xmlhttprequest,domain=gayboystube.com
 @@||adisteme.kz^$generichide
+@@||adj.st^$removeparam=adj_t
 @@||adjectives-for.com^$generichide
 @@||adjs.8591.com.tw^$script
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
@@ -2607,9 +2609,7 @@
 @@||as.weixin.qq.com^
 @@||asadcdn.com/adlib/$domain=autobild.de,badfilter
 @@||asadcdn.com/adlib/$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de,badfilter
-@@||asadcdn.com/adlib/$domain=computerbild.de
 @@||asadcdn.com/adlib/pages/sport1.js$domain=sport1.de
-@@||asadcdn.com/assets/video/$domain=computerbild.de
 @@||asahi.com/ads/$image,~third-party
 @@||ascdn.baidu.com^
 @@||ascii.jp/img/ad/$image,~third-party
@@ -18029,7 +18029,6 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
 @@||xfreehd.com^$generichide
-@@||xfreehd.com^$generichideparty
 @@||xg4ken.com/trk/*&adgroupid=
 @@||xhaccess.com^$script,~third-party
 @@||xhamster.com/ajax/
