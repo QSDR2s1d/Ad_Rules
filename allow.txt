@@ -2,9 +2,9 @@
 ! Title: Ad_Rules
 ! Homepage: https://github.com/QSDR2s1d/Ad_Rules
 ! Expires: 12 Hours
-! Version: 2025-09-26 08:38:28（北京时间）
+! Version: 2025-09-26 20:15:36（北京时间）
 ! Description: Ad_Rules，一个集合众家之长的、强力去广告的规则
-! Total count: 18377
+! Total count: 18379
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -6789,6 +6789,7 @@
 @@||gigaho.com^$generichide
 @@||gigya.com$domain=dailystar.co.uk
 @@||gigya.com/comments.getComments$domain=muscleandfitness.com
+@@||gildia.pl/static/*/Smile_ElasticsuiteTracker/js/tracking.min.js$~third-party
 @@||gips2.baidu.com^
 @@||giraff.io^$domain=vs.lv
 @@||gismeteo.ru/api/informer/*/180x150
@@ -8805,7 +8806,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=globoplay.globo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gocolumbialions.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goducks.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goniec.pl|lelum.pl|biznesinfo.pl|portalparentingowy.pl|pacjenci.pl|rolnikinfo.pl|turysci.pl|smakosze.pl|swiatzwierzat.pl|domekiogrodek.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goniec.pl|lelum.pl|biznesinfo.pl|portalparentingowy.pl|pacjenci.pl|rolnikinfo.pl|turysci.pl|smakosze.pl|swiatzwierzat.pl|domekiogrodek.pl|aleklasa.pl|rynek-kolejowy.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gousfbulls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=greatdaygames.com
@@ -10243,6 +10244,7 @@
 @@||lnindo.org^$generichide
 @@||lnk2.cc/js/ad_code.js
 @@||lnk2.cc^$generichide
+@@||load.dizifilmevreni.xyz/embed/$stealth=referrer
 @@||load.sumome.com/$domain=deekit.com
 @@||loader-cdn.azureedge.net/prod/smi/loader.min.js$domain=pressdemocrat.com
 @@||loadingbaycn.webapp.163.com^
